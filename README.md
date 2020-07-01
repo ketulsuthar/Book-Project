@@ -1,12 +1,14 @@
 # Book-Project
 
 #### Problem Statement
-A. Find out the frequency of books published each year. (Hint: Use Boooks.csv file for this)<br>>
+A. Find out the frequency of books published each year. (Hint: Use Boooks.csv file for this)<br>
 B. Find out in which year maximum number of books were published<br>
 C. Find out how many book were published based on ranking in the year 2002. ( Hint: Use Book.csv and Book-Ratings.csv)<br>
 #### Dataset
 
-
+[Book Rating](./BX-Book-Ratings.csv)<br>
+[BX-Books](./BX-Books.csv)<br>
+[BX-Users](./BX-Users.csv)<br>
 
 #### Dataset Description
 The Book-Crossing dataset consists of 3 tables.<br>
